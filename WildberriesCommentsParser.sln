@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildberriesCommentsParser", "WildberriesCommentsParser\WildberriesCommentsParser.csproj", "{5354B30B-32BF-4116-9921-0C7DABFDEA84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildberriesCommentsParser.Tests", "Tests\WildberriesCommentsParser.Tests.csproj", "{5E6BD2DA-21DF-4F6F-B6CE-1278B672041F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5354B30B-32BF-4116-9921-0C7DABFDEA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5354B30B-32BF-4116-9921-0C7DABFDEA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5354B30B-32BF-4116-9921-0C7DABFDEA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5354B30B-32BF-4116-9921-0C7DABFDEA84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6BD2DA-21DF-4F6F-B6CE-1278B672041F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6BD2DA-21DF-4F6F-B6CE-1278B672041F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6BD2DA-21DF-4F6F-B6CE-1278B672041F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6BD2DA-21DF-4F6F-B6CE-1278B672041F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {408C4FDA-0AA0-4340-BA1B-73138B5A0ADB}
+	EndGlobalSection
+EndGlobal
